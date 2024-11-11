@@ -2,4 +2,4 @@
 - Mitarbeiter: [[PersonA]]
 -
 - ((6732318d-5f1b-426c-915d-bcfa60cd1e4c))
--
+- {{embed ((6732318d-5f1b-426c-915d-bcfa60cd1e4c))}}
