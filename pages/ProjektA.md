@@ -1,5 +1,12 @@
 - Hier stehen Notizen über mein Projekt
-- Mitarbeiter: [[PersonA]]
+- Mitarbeiter: [[PersonA]], _PersonB_
+- # Ziele
+	- [Link zum Google Dok mit den Zielen](https://google.com)
+	- ## Unterziele
+		- `<html>` lernen
+- # Nächste Schritte
+	- DONE Zeitplanung
+	- TODO Quelle lesen
 -
 - ((67323579-5fd7-4602-9ea0-7ca860c87a91))
 - ((6732318d-5f1b-426c-915d-bcfa60cd1e4c))
