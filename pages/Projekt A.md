@@ -1,0 +1,5 @@
+- Hier steht ein Projektbeschrieb
+- Mitarbeiter: [[Person A]], [[Person B]]
+-
+- ((6733455c-5a47-4ae8-ad21-a8f2dd157c2c))
+-
